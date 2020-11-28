@@ -1,0 +1,23 @@
+{
+  "name": "fh-mini-eld-manager",
+  "version": "1.0.0",
+  "description": "Mini ELD Nodje Wrapper over iWave C++ Shared Object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ffi": "^2.2.0",
+    "node-gyp": "^3.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fleet-Hawks-Inc/fh-mini-eld-manager.git"
+  },
+  "author": "Kunal Deshmukh (Fleet Hawks)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fleet-Hawks-Inc/fh-mini-eld-manager/issues"
+  },
+  "homepage": "https://github.com/Fleet-Hawks-Inc/fh-mini-eld-manager#readme"
+}
